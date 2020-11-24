@@ -44,4 +44,4 @@ Nell'ordinamento giuridico italiano, sono piccoli imprenditori: il coltivatore d
 
 ## Impresa Familiare
 
-?> L'impresa familiare è un is
+?> L'impresa familiare è un istuto familiare
