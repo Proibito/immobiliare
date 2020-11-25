@@ -3,6 +3,8 @@
 
 ## Varie tipologie lavorative
 
+📘 Pagina 27 Paragrafo 2.1
+
 Ci sono 3 tipologia di lavoro:
 
 * **Lavoro Autonomo**
@@ -31,6 +33,8 @@ di subordinazione** nei cofronti di un datore di lavoro (commitente) [art. 2222 
 
 ## L'imprenditore
 
+📘 Pagina 28 Paragrafo 2.3
+
 ?> L'imprenditore è chi esercita proffesionalmente un'attività economica orgranizzata al fine della produzione o dello scambio di beni o di servizi [art 2082][art2082]
 
 [art2082]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2082.html?q=2082+cc&area=codici
@@ -49,14 +53,14 @@ Si acquista alla maggiore età cioè **18 anni** ([Art.2 del c.c.][Art2]) e si c
 
 !> Non possono essere considerati imprenditori: lavoratori autonomi che svolgo professioni **intellettuali o artistiche**
 
-#### Piccolo imprenditore
+#### Piccolo imprenditore 👦
 
 Nell'ordinamento giuridico italiano, sono piccoli imprenditori: il coltivatore diretto del fondo l'artigiano; il piccolo commerciante; coloro che esercitano un'attività professionale organizzata prevalentemente con il lavoro proprio e dei componenti della propria famiglia [art 2083 C.c](https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2083.html)
 
 ---
 <br>
 
-## Impresa Familiare
+## Impresa Familiare 👪
 
 ?> L'impresa familiare è un istituto giuridico nell'ordinamento italiano, disciplinato [dall'art. 230 bis][art230] del codice civile. Esso regola i rapporti che nascono in seno ad una impresa ogni qualvolta un familiare dell'imprenditore presti la sua opera in maniera continuativa nella famiglia o nella stessa impresa.
 
@@ -72,7 +76,7 @@ Più nel dttaglio, fanno parte dell'impresa familiare:
 ---
 <br>
 
-## La Società
+## La Società 👨‍💼👩‍💼
 
 > Con il contratto di società **due o più** persone conferiscono beni o servizi per l'esercizio in comune di un'attività economica allo scopo di dividere gli utili [Art. 2247 C.c.][art2247]
 
@@ -166,7 +170,7 @@ Le distizioni si possono fare tramite:
 
 ---
 
-### Società di Persone
+### Società di Persone 👩‍👩‍👧‍👦
 
 ?> Si tratta di società che godono di **un'autonomia patrimoniale imperfetta** ed è prevista per i soci la **responsabilità illimitata** e **solidale** rispetto alle obbligazioni assunte della società, tranne per alcune eccezioni disciplinate dalla legge.
 
@@ -187,7 +191,7 @@ Sono le società di persone:
 #### Società in nome collettivo (S.N.C.)
 [](#snc) <!-- {docsify-ignore} -->
 
-È disciplinata dagli [Art. 2291][Art2291] ed è una società di persone che può essere utilizzata sia per l'esercizio di attività commerciale, sia per l'esercizio di un'attività non commericiale (Art. 2249 C.c.)
+È disciplinata dagli [Art. 2291][Art2291] 🕵️‍♀️ ed è una società di persone che può essere utilizzata sia per l'esercizio di attività commerciale, sia per l'esercizio di un'attività non commericiale (Art. 2249 C.c.)
 
 [Art2291]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-v/capo-iii/art2291.html
 
