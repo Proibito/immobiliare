@@ -10,3 +10,5 @@
 * **Diritto urbanistico** - Sig. Aglietti Paolo
 
 [diritto-civile]: diritto-civile/index.md
+
+Curato da Edoardo Balzano 🧑🏼❤👧🏽
