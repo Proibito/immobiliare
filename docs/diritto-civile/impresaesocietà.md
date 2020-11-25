@@ -175,3 +175,28 @@ Sono le società di persone:
 - Società semplice (S.S.)
 - Società in nome collettivo (S.N.C.)
 - Società in accomandita semplice (S.A.S.)
+
+#### Requsiiti generali
+
+- **Responsabilità Illimitata** e **Solidale** 
+- Prevalenza dell'elemento personale su quello economico
+- non è necessario un capitale minimo per la costiuzione
+- tutti i soci amministratori possono essere chiamati a rispondere anche con il loro patrimonio personale per i debiti sociali e anche della quota di spettanza deli altri soci
+- l'amministrazione può spettare solo ai soci
+
+#### Società in nome collettivo (S.N.C.)
+
+È disciplinata dagli [Art. 2291][Art2291] ed è una società di persone che può essere utilizzata sia per l'esercizio di attività commerciale, sia per l'esercizio di un'attività non commericiale (Art. 2249 C.c.)
+
+[Art2291]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-v/capo-iii/art2291.html
+
+
+Le caratteristiche:
+
+- Tutti i soci sono **illimitatamente** e **solidalmente responsabili** ed il patto contrario non ha effetto nei confronti dei terzi
+- L'atto costituitivo, per essere iscritto nel Registro delle Imprese deve essere redatto per atto pubblico o per scrittura privata autenticata da un notaio.
+- Nell'atto costitutivo di S.N.C. è essenziale indicare i seguenti elementi:
+    - Cognome, nome, luogo e data di nascita. domicilio e cittadinanza dei soci
+    - La ragione sociale della società (il nome)
+    - La sede della società ed eventuali sedi secondarie
+    - L'oggetto sociale

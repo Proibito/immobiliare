@@ -9,4 +9,4 @@ Gli argomenti coinvolti:
 * Titoli di credito
 * I contratti in generale
 
-[l'imprenditore]: diritto-civile/l'imprenditore.md
+[l'imprenditore]: diritto-civile/impresaesocietà.md
