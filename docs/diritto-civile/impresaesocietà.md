@@ -151,7 +151,7 @@ Le distizioni si possono fare tramite:
 #### **Società di persone**
 
 - Società semplice (S.S.)
-- Società in nome collettivo (S.N.C.)
+- [Società in nome collettivo (S.N.C.)](#società-in-nome-collettivo-snc)
 - Società in accomandita semplice (S.A.S.)
 
 #### **Società di capitali**
@@ -173,7 +173,7 @@ Le distizioni si possono fare tramite:
 Sono le società di persone:
 
 - Società semplice (S.S.)
-- Società in nome collettivo (S.N.C.)
+- [Società in nome collettivo (S.N.C.)](#società-in-nome-collettivo-snc)
 - Società in accomandita semplice (S.A.S.)
 
 #### Requsiiti generali
@@ -185,6 +185,7 @@ Sono le società di persone:
 - l'amministrazione può spettare solo ai soci
 
 #### Società in nome collettivo (S.N.C.)
+[](#snc) <!-- {docsify-ignore} -->
 
 È disciplinata dagli [Art. 2291][Art2291] ed è una società di persone che può essere utilizzata sia per l'esercizio di attività commerciale, sia per l'esercizio di un'attività non commericiale (Art. 2249 C.c.)
 
