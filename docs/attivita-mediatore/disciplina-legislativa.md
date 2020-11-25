@@ -1,17 +1,17 @@
 # Disciplina Legislativa
 
-# La professine del mediatore
+# La professione del mediatore
 
 Pagina 1 paragrafo 1.1
 
-?> Il mediatore è cloui che mette in relazione duo o più persone per la conclusione di un affare senza essere legato ad alcuna di essa da rapporti di collaborazione, di dispendenza o di rappresentanza
+?> Il mediatore è colui che mette in relazione duo o più persone per la conclusione di un affare senza essere legato ad alcuna di essa da rapporti di collaborazione, di dipendenza o di rappresentanza
 
-Il mediatore ha due caratterische:
-* L'autonomia
-* L'imparzialità
+Il mediatore ha due caratteristiche:
+
+- L'autonomia
+- L'imparzialità
 
 !> Solo dopo la conclusione del contratto il mediatore può assumere la rappresentanza di una delle parti per gli atti di esecuzione del contratto.
-
 
 ## Le tipologie del mediatore
 
@@ -41,44 +41,44 @@ pubblicità).
 
 <!-- tabs:end -->
 
-
 ## Requisiti per l'attività
 
 Pagina 4 paragrafo 1.4
 
-La l. 39/89 e 57/01 prevedono dei requisiti neccesari per l'iscirzioni al ruolo.
+La l. 39/89 e 57/01 prevedono dei requisiti necessari per l'iscrizione al ruolo.
+
 > Ci sono 3 gruppi di requisiti:
-> * Generali
-> * Morali
-> * Professionali
+>
+> - Generali
+> - Morali
+> - Professionali
 
 ### Requisiti generali
 
 Lista dei requisiti generali:
 
 1. La maggiore età
-2. Cittadinanza dell'unione europea o, nel caso di extracomunitari, possesso del permesso di soggiorno per motivi di lavoro, motivi familiari o iscirizione allìufficio di collocamento
+2. Cittadinanza dell'unione europea o, nel caso di extracomunitari, possesso del permesso di soggiorno per motivi di lavoro, motivi familiari o iscrizione all'ufficio di collocamento
 3. Residenza o elezione del domicilio professionale nella circoscrizione della Camera di commercio in cui si intende svolgere l’attività
 4. Possesso di diritti civili
 5. Diploma di scuola secondaria statale o legalmente riconosciuta di secondo grado
 
 ### Requisiti morali
 
-L'aspirante all'iscizione deve.
+L'aspirante agente deve:
 
 1. Non essere stato dichiarato fallito
 2. non essere stato sottoposto a misure di prevenzione definitive
 3. non essere stato condannato per delitti contro la pubblica amministrazione, l’amministrazione della giustizia, la fede pubblica, l’economia pubblica, ed il commercio;
-4. non essere stato condannato per i delitti di omicidio volontario, furto, rapina, estorsione, truffa, appropriazione indebita, ricettazione, emissione di assegnia
-vuoto (assegni senza provvista e assegni senza autorizzazione del trattario ora depenalizzati con d.l. n. 507 del 30.12.1999 in vigore dal 15.01.2000);
+4. non essere stato condannato per i delitti di omicidio volontario, furto, rapina, estorsione, truffa, appropriazione indebita, ricettazione, emissione di assegni
+   vuoto (assegni senza provvista e assegni senza autorizzazione del trattario ora depenalizzati con d.l. n. 507 del 30.12.1999 in vigore dal 15.01.2000);
 5. non essere stato condannato per un delitto non colposo per il quale la legge commini la pena della reclusione non inferiore nel minimo a due anni e nel massimo a cinque anni.
 
 ### Requisiti professionali
 
 Devo ancora scriverli
 
-
-## Incobabilità dell'attività di agente immobiliare
+## Incurabilità dell'attività di agente immobiliare
 
 paragrafo 1.7 pag. 12
 
@@ -89,4 +89,4 @@ paragrafo 1.7 pag. 12
 In sostanza deve vedere le case di qualcuno.
 Ci sono dei requisiti che un'aspirante mediatore deve soddisfare. [Vedi qui](#requisiti-per-l39attività)
 
-Inoltre deve avere coseguito (e superare) il **patentino d'Agente d'Affari in Mediazione**, presso la Camera di Commercio 
+Inoltre deve avere conseguito (e superare) il **patentino d'Agente d'Affari in Mediazione**, presso la Camera di Commercio

@@ -1,6 +1,6 @@
 > 🗓 Ultimo aggiornamento **novembre 2020**
 
-# Corso degli agneti immobiliare di Torino
+# Corso degli agenti immobiliare di Torino
 
 ## Le materie
 

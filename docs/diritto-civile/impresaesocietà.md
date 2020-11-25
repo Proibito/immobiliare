@@ -1,22 +1,21 @@
 # Impresa e Società
 
-
 ## Varie tipologie lavorative
 
 📘 Pagina 27 Paragrafo 2.1
 
 Ci sono 3 tipologia di lavoro:
 
-* **Lavoro Autonomo**
-* **Lavoro Subordinato**
-* **Lavoro Parasubordinato**
+- **Lavoro Autonomo**
+- **Lavoro Subordinato**
+- **Lavoro Parasubordinato**
 
 <!-- tabs:start -->
 
 #### **Lavoro autonomo**
 
-> Il lavoro del prestatore di un'opera o di un servizio che compie un incarico con lavoro **prevalemnte poprio e senza vincolo
-di subordinazione** nei cofronti di un datore di lavoro (commitente) [art. 2222 del C.c](https://www.brocardi.it/codice-civile/libro-quinto/titolo-iii/capo-i/art2222.html)
+> Il lavoro del prestatore di un'opera o di un servizio che compie un incarico con lavoro **prevalente proprio e senza vincolo
+> di subordinazione** nei confronti di un datore di lavoro (committente) [art. 2222 del C.c](https://www.brocardi.it/codice-civile/libro-quinto/titolo-iii/capo-i/art2222.html)
 
 #### **Lavoro Subordinato**
 
@@ -29,27 +28,28 @@ di subordinazione** nei cofronti di un datore di lavoro (commitente) [art. 2222 
 <!-- tabs:end -->
 
 ---
+
 <br>
 
 ## L'imprenditore
 
 📘 Pagina 28 Paragrafo 2.3
 
-?> L'imprenditore è chi esercita proffesionalmente un'attività economica orgranizzata al fine della produzione o dello scambio di beni o di servizi [art 2082][art2082]
+?> L'imprenditore è chi esercita professionalmente un'attività economica organizzata al fine della produzione o dello scambio di beni o di servizi [art 2082][art2082]
 
 [art2082]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2082.html?q=2082+cc&area=codici
 
 L'acquisto della qualità di imprenditore avviene quando si ottiene **la capacità di agire**, ossia l’idoneità del soggetto a svolgere l’attività giuridica relativa ai propri interessi, che consiste nella possibilità di acquisire ed esercitare diritti, assumere e adempiere obblighi.
 
-Si acquista alla maggiore età cioè **18 anni** ([Art.2 del c.c.][Art2]) e si conserva fino a quando si schiatta (si muore) a meno che non venga meno nei casi previsti dalla legge
+Si acquista alla maggiore età cioè **18 anni** ([Art.2 del c.c.][art2]) e si conserva fino a quando si schiatta (si muore) a meno che non venga meno nei casi previsti dalla legge
 
-[Art2]: https://www.brocardi.it/costituzione/principi-fondamentali/art2.html
+[art2]: https://www.brocardi.it/costituzione/principi-fondamentali/art2.html
 
 ### Requisiti per fare l'imprenditore:
 
-* Professionalità, attività svolta in modo stabile
-* Esercizio attività economica, serie di atti concatenati dello stesso fine, consistente nella creazione di una nuova richezza
-* Deve avere un'attività economica organizzata, ossia deve avere una serie di fattori che messi insieme avviino la produzione
+- Professionalità, attività svolta in modo stabile
+- Esercizio attività economica, serie di atti concatenati dello stesso fine, consistente nella creazione di una nuova ricchezza
+- Deve avere un'attività economica organizzata, ossia deve avere una serie di fattori che messi insieme avviino la produzione
 
 !> Non possono essere considerati imprenditori: lavoratori autonomi che svolgo professioni **intellettuali o artistiche**
 
@@ -58,6 +58,7 @@ Si acquista alla maggiore età cioè **18 anni** ([Art.2 del c.c.][Art2]) e si c
 Nell'ordinamento giuridico italiano, sono piccoli imprenditori: il coltivatore diretto del fondo l'artigiano; il piccolo commerciante; coloro che esercitano un'attività professionale organizzata prevalentemente con il lavoro proprio e dei componenti della propria famiglia [art 2083 C.c](https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2083.html)
 
 ---
+
 <br>
 
 ## Impresa Familiare 👪
@@ -66,14 +67,16 @@ Nell'ordinamento giuridico italiano, sono piccoli imprenditori: il coltivatore d
 
 [art230]: https://www.brocardi.it/codice-civile/libro-primo/titolo-vi/capo-vi/sezione-vi/art230bis.html
 
-Più nel dttaglio, fanno parte dell'impresa familiare: 
-* il cogniuge
-* i parenti fino al terzo grado
-* gli affini entro il secondo grado dell'imprenditore
+Più nel dettaglio, fanno parte dell'impresa familiare:
+
+- il coniuge
+- i parenti fino al terzo grado
+- gli affini entro il secondo grado dell'imprenditore
 
 !> **L'imprenditore** è il solo che risponde con i propri beni personali nei confronti dei creditori e che fallisce in caso di insolvenza
 
 ---
+
 <br>
 
 ## La Società 👨‍💼👩‍💼
@@ -84,17 +87,16 @@ Più nel dttaglio, fanno parte dell'impresa familiare:
 
 ### I requisiti
 
-Ci sono 4 requisti da soddisfare per poter fondare una società:
+Ci sono 4 requisiti da soddisfare per poter fondare una società:
 
-* **Contratto plurilaterale** due o più persone con comunione di socopo in comune a tutti i soci
-* **Conferimenti** prestazioni di beni o servizi di cui i soci si obbligano in quanto la società non può esistere senza un fondo sociale
-* **Esercizio in comune dell'attività economica** Attività economica è esericitata in comune da due o più persone
-* **Scopo di lucro** Attività svolta alla realizzazione di utili
+- **Contratto plurilaterale** due o più persone con comunione di scopo in comune a tutti i soci
+- **Conferimenti** prestazioni di beni o servizi di cui i soci si obbligano in quanto la società non può esistere senza un fondo sociale
+- **Esercizio in comune dell'attività economica** Attività economica è esercitata in comune da due o più persone
+- **Scopo di lucro** Attività svolta alla realizzazione di utili
 
 I conferimenti possono essere anche i lavori svolti di un socio come per esempio un socio programmatore per il fatto che lui sappia programmare può apportare questa sua abilità.
 
 È nullo il patto con il quale uno o più scoi sono esclusi da ogni partecipazione agli utili o alle perdite **Divieto di patto leonino**
-
 
 ### Le differenze dal patrimonio sociale e dal capitale sociale
 
@@ -102,7 +104,7 @@ I conferimenti possono essere anche i lavori svolti di un socio come per esempio
 
 #### **Capitale sociale**
 
-> Il **capitale sociale** è il valore in denaro della domma dei conferimenti eseguiti o prmessi dai soci in sede di costituizione della società
+> Il **capitale sociale** è il valore in denaro della somma dei conferimenti eseguiti o permessi dai soci in sede di costituzione della società
 
 #### **Patrimonio sociale**
 
@@ -115,41 +117,46 @@ La differenza è che **il patrimonio varia** a seconda delle vicende economiche 
 
 ### Distinzioni societarie
 
-Le distizioni si possono fare tramite:
+Le distinzioni si possono fare tramite:
 
-* Lo scopo
-* L'oggetto
-* Rilievo che assumono i soci
+- Lo scopo
+- L'oggetto
+- Rilievo che assumono i soci
 
 #### Scopo
+
 <!-- tabs:start -->
 
 #### **Società lucrative**
 
-> Le **società lucrative** peseguono uno scopo di lucro (non l'avresti mai detto eh!)
+> Le **società lucrative** perseguono uno scopo di lucro (non l'avresti mai detto eh!)
 
 #### **Società cooperative**
+
 <!-- TODO da continuare -->
-> Le **società cooperative** perseguono uno scopo mutailisitco 
+
+> Le **società cooperative** perseguono uno scopo mutualistico
 
 <!-- tabs:end -->
 
 
 #### Oggetto
+
 <!-- tabs:start -->
 
 #### **Società non commerciali**
 
 > Le **Società non commerciali** Hanno per oggetto un'attività non commerciale come per esempio le società agricole
 
-#### **Società commericiali**
+#### **Società commerciali**
 
-> Le **società commericiali** hanno per oggetto un'attività commericiale
+> Le **società commerciali** hanno per oggetto un'attività commerciale
 
 <!-- tabs:end -->
 
 
 #### Rilievo che assumono i soci
+
 <!-- tabs:start -->
 
 #### **Società di persone**
@@ -180,28 +187,26 @@ Sono le società di persone:
 - [Società in nome collettivo (S.N.C.)](#società-in-nome-collettivo-snc)
 - Società in accomandita semplice (S.A.S.)
 
-#### Requsiiti generali
+#### Requisiti generali
 
-- **Responsabilità Illimitata** e **Solidale** 
+- **Responsabilità Illimitata** e **Solidale**
 - Prevalenza dell'elemento personale su quello economico
-- non è necessario un capitale minimo per la costiuzione
+- non è necessario un capitale minimo per la costituzione
 - tutti i soci amministratori possono essere chiamati a rispondere anche con il loro patrimonio personale per i debiti sociali e anche della quota di spettanza deli altri soci
 - l'amministrazione può spettare solo ai soci
 
 #### Società in nome collettivo (S.N.C.)
-[](#snc) <!-- {docsify-ignore} -->
 
-È disciplinata dagli [Art. 2291][Art2291] 🕵️‍♀️ ed è una società di persone che può essere utilizzata sia per l'esercizio di attività commerciale, sia per l'esercizio di un'attività non commericiale (Art. 2249 C.c.)
+È disciplinata dagli [Art. 2291][art2291] 🕵️‍♀️ ed è una società di persone che può essere utilizzata sia per l'esercizio di attività commerciale, sia per l'esercizio di un'attività non commerciale (Art. 2249 C.c.)
 
-[Art2291]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-v/capo-iii/art2291.html
-
+[art2291]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-v/capo-iii/art2291.html
 
 Le caratteristiche:
 
 - Tutti i soci sono **illimitatamente** e **solidalmente responsabili** ed il patto contrario non ha effetto nei confronti dei terzi
-- L'atto costituitivo, per essere iscritto nel Registro delle Imprese deve essere redatto per atto pubblico o per scrittura privata autenticata da un notaio.
+- L'atto costitutivo, per essere iscritto nel Registro delle Imprese deve essere redatto per atto pubblico o per scrittura privata autenticata da un notaio.
 - Nell'atto costitutivo di S.N.C. è essenziale indicare i seguenti elementi:
-    - Cognome, nome, luogo e data di nascita. domicilio e cittadinanza dei soci
-    - La ragione sociale della società (il nome)
-    - La sede della società ed eventuali sedi secondarie
-    - L'oggetto sociale
+  - Cognome, nome, luogo e data di nascita. domicilio e cittadinanza dei soci
+  - La ragione sociale della società (il nome)
+  - La sede della società ed eventuali sedi secondarie
+  - L'oggetto sociale
