@@ -22,13 +22,24 @@ di subordinazione** nei cofronti di un datore di lavoro (commitente) [art. 2222 
 
 #### **Lavoro Parasubordinato**
 
-> Con lavoro parasubordinato si indica un tipo di lavoro che presenta caratteristiche intermedie tra quelle del lavoro subordinato e quelle del lavoro autonomo .
+> Con lavoro parasubordinato si indica un tipo di lavoro che presenta caratteristiche intermedie tra quelle del lavoro subordinato e quelle del lavoro autonomo.
 
 <!-- tabs:end -->
 
+---
+<br>
+
 ## L'imprenditore
 
-?> L'imprenditore è chi esercita proffesionalmente un'attività economica orgranizzata al fine della produzione o dello scambio di beni o di servizi
+?> L'imprenditore è chi esercita proffesionalmente un'attività economica orgranizzata al fine della produzione o dello scambio di beni o di servizi [art 2082][art2082]
+
+[art2082]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2082.html?q=2082+cc&area=codici
+
+L'acquisto della qualità di imprenditore avviene quando si ottiene **la capacità di agire**, ossia l’idoneità del soggetto a svolgere l’attività giuridica relativa ai propri interessi, che consiste nella possibilità di acquisire ed esercitare diritti, assumere e adempiere obblighi.
+
+Si acquista alla maggiore età cioè **18 anni** ([Art.2 del c.c.][Art2]) e si conserva fino a quando si schiatta (si muore) a meno che non venga meno nei casi previsti dalla legge
+
+[Art2]: https://www.brocardi.it/costituzione/principi-fondamentali/art2.html
 
 ### Requisiti per fare l'imprenditore:
 
@@ -42,6 +53,125 @@ di subordinazione** nei cofronti di un datore di lavoro (commitente) [art. 2222 
 
 Nell'ordinamento giuridico italiano, sono piccoli imprenditori: il coltivatore diretto del fondo l'artigiano; il piccolo commerciante; coloro che esercitano un'attività professionale organizzata prevalentemente con il lavoro proprio e dei componenti della propria famiglia [art 2083 C.c](https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2083.html)
 
+---
+<br>
+
 ## Impresa Familiare
 
-?> L'impresa familiare è un istuto familiare
+?> L'impresa familiare è un istituto giuridico nell'ordinamento italiano, disciplinato [dall'art. 230 bis][art230] del codice civile. Esso regola i rapporti che nascono in seno ad una impresa ogni qualvolta un familiare dell'imprenditore presti la sua opera in maniera continuativa nella famiglia o nella stessa impresa.
+
+[art230]: https://www.brocardi.it/codice-civile/libro-primo/titolo-vi/capo-vi/sezione-vi/art230bis.html
+
+Più nel dttaglio, fanno parte dell'impresa familiare: 
+* il cogniuge
+* i parenti fino al terzo grado
+* gli affini entro il secondo grado dell'imprenditore
+
+!> **L'imprenditore** è il solo che risponde con i propri beni personali nei confronti dei creditori e che fallisce in caso di insolvenza
+
+---
+<br>
+
+## La Società
+
+> Con il contratto di società **due o più** persone conferiscono beni o servizi per l'esercizio in comune di un'attività economica allo scopo di dividere gli utili [Art. 2247 C.c.][art2247]
+
+[art2247]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-v/capo-i/art2247.html
+
+### I requisiti
+
+Ci sono 4 requisti da soddisfare per poter fondare una società:
+
+* **Contratto plurilaterale** due o più persone con comunione di socopo in comune a tutti i soci
+* **Conferimenti** prestazioni di beni o servizi di cui i soci si obbligano in quanto la società non può esistere senza un fondo sociale
+* **Esercizio in comune dell'attività economica** Attività economica è esericitata in comune da due o più persone
+* **Scopo di lucro** Attività svolta alla realizzazione di utili
+
+I conferimenti possono essere anche i lavori svolti di un socio come per esempio un socio programmatore per il fatto che lui sappia programmare può apportare questa sua abilità.
+
+È nullo il patto con il quale uno o più scoi sono esclusi da ogni partecipazione agli utili o alle perdite **Divieto di patto leonino**
+
+
+### Le differenze dal patrimonio sociale e dal capitale sociale
+
+<!-- tabs:start -->
+
+#### **Capitale sociale**
+
+> Il **capitale sociale** è il valore in denaro della domma dei conferimenti eseguiti o prmessi dai soci in sede di costituizione della società
+
+#### **Patrimonio sociale**
+
+> Il **patrimonio sociale** è il complesso di rapporti giuridici attivi e passivi che fanno capo alla società.
+
+<!-- tabs:end -->
+
+La differenza è che **il patrimonio varia** a seconda delle vicende economiche della società mentre **il capitale rimane immutato**.
+
+
+### Distinzioni societarie
+
+Le distizioni si possono fare tramite:
+
+* Lo scopo
+* L'oggetto
+* Rilievo che assumono i soci
+
+#### Scopo
+<!-- tabs:start -->
+
+#### **Società lucrative**
+
+> Le **società lucrative** peseguono uno scopo di lucro (non l'avresti mai detto eh!)
+
+#### **Società cooperative**
+<!-- TODO da continuare -->
+> Le **società cooperative** perseguono uno scopo mutailisitco 
+
+<!-- tabs:end -->
+
+
+#### Oggetto
+<!-- tabs:start -->
+
+#### **Società non commerciali**
+
+> Le **Società non commerciali** Hanno per oggetto un'attività non commerciale come per esempio le società agricole
+
+#### **Società commericiali**
+
+> Le **società commericiali** hanno per oggetto un'attività commericiale
+
+<!-- tabs:end -->
+
+
+#### Rilievo che assumono i soci
+<!-- tabs:start -->
+
+#### **Società di persone**
+
+- Società semplice (S.S.)
+- Società in nome collettivo (S.N.C.)
+- Società in accomandita semplice (S.A.S.)
+
+#### **Società di capitali**
+
+- Società per azioni (S.P.A.)
+- Società in accomandita per azioni (S.A.P.A.)
+- Società a responsabilità limitata (S.R.L.)
+
+<!-- tabs:end -->
+
+<br>
+
+---
+
+### Società di Persone
+
+?> Si tratta di società che godono di **un'autonomia patrimoniale imperfetta** ed è prevista per i soci la **responsabilità illimitata** e **solidale** rispetto alle obbligazioni assunte della società, tranne per alcune eccezioni disciplinate dalla legge.
+
+Sono le società di persone:
+
+- Società semplice (S.S.)
+- Società in nome collettivo (S.N.C.)
+- Società in accomandita semplice (S.A.S.)

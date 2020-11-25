@@ -1,4 +1,4 @@
 * [Home](/)
 * [Diritto Civile](diritto-civile/index.md)
-    * [L'imprenditore](diritto-civile/l'imprenditore.md)
+    * [Impresa e Società](diritto-civile/l'imprenditore.md)
 * [Orari](orari.md)
