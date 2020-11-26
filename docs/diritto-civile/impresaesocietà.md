@@ -35,7 +35,7 @@ Ci sono 3 tipologia di lavoro:
 
 📘 Pagina 28 Paragrafo 2.3
 
-?> L'imprenditore è chi esercita professionalmente un'attività economica organizzata al fine della produzione o dello scambio di beni o di servizi [art 2082][art2082]
+?> L'imprenditore è chi esercita professionalmente un'attività economica organizzata al fine della produzione o dello scambio di beni o di servizi [Art. 2082][art2082]
 
 [art2082]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2082.html?q=2082+cc&area=codici
 
@@ -55,7 +55,7 @@ Si acquista alla maggiore età cioè **18 anni** ([Art.2 del c.c.][art2]) e si c
 
 #### Piccolo imprenditore 👦
 
-Nell'ordinamento giuridico italiano, sono piccoli imprenditori: il coltivatore diretto del fondo l'artigiano; il piccolo commerciante; coloro che esercitano un'attività professionale organizzata prevalentemente con il lavoro proprio e dei componenti della propria famiglia [art 2083 C.c](https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2083.html)
+Nell'ordinamento giuridico italiano, sono piccoli imprenditori: il coltivatore diretto del fondo l'artigiano; il piccolo commerciante; coloro che esercitano un'attività professionale organizzata prevalentemente con il lavoro proprio e dei componenti della propria famiglia [Art. 2083 C.c](https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2083.html)
 
 ---
 
@@ -81,9 +81,13 @@ Più nel dettaglio, fanno parte dell'impresa familiare:
 
 ## La Società 👨‍💼👩‍💼
 
+Il codice Civile 👩‍⚖️ dice:
+
 > Con il contratto di società **due o più** persone conferiscono beni o servizi per l'esercizio in comune di un'attività economica allo scopo di dividere gli utili [Art. 2247 C.c.][art2247]
 
 [art2247]: https://www.brocardi.it/codice-civile/libro-quinto/titolo-v/capo-i/art2247.html
+
+Quindi si parla di società quando due (o più) persone conferiscono dei beni o servizi per creare un comune guadagno
 
 ### I requisiti
 
@@ -114,7 +118,6 @@ I conferimenti possono essere anche i lavori svolti di un socio come per esempio
 
 La differenza è che **il patrimonio varia** a seconda delle vicende economiche della società mentre **il capitale rimane immutato**.
 
-
 ### Distinzioni societarie
 
 Le distinzioni si possono fare tramite:
@@ -139,7 +142,6 @@ Le distinzioni si possono fare tramite:
 
 <!-- tabs:end -->
 
-
 #### Oggetto
 
 <!-- tabs:start -->
@@ -153,7 +155,6 @@ Le distinzioni si possono fare tramite:
 > Le **società commerciali** hanno per oggetto un'attività commerciale
 
 <!-- tabs:end -->
-
 
 #### Rilievo che assumono i soci
 
@@ -173,11 +174,13 @@ Le distinzioni si possono fare tramite:
 
 <!-- tabs:end -->
 
-<br>
-
 ---
 
+<br>
+
 ### Società di Persone 👩‍👩‍👧‍👦
+
+Definizione:
 
 ?> Si tratta di società che godono di **un'autonomia patrimoniale imperfetta** ed è prevista per i soci la **responsabilità illimitata** e **solidale** rispetto alle obbligazioni assunte della società, tranne per alcune eccezioni disciplinate dalla legge.
 
@@ -195,6 +198,14 @@ Sono le società di persone:
 - tutti i soci amministratori possono essere chiamati a rispondere anche con il loro patrimonio personale per i debiti sociali e anche della quota di spettanza deli altri soci
 - l'amministrazione può spettare solo ai soci
 
+#### Società semplice (S.S.)
+
+?> La società semplice è la società di persone a responsabilità illimitata, riservata a tutte le attività economiche **non commerciali**
+
+È la tipologia di società più diffusa in **agricoltura** e per le attività di gestione di beni mobili e immobili. È il prototipo di tutte le società di persone
+
+I contraenti alla stipulazione del contratto diventano soci con i diritti e gli obblighi che prevede la legge
+
 #### Società in nome collettivo (S.N.C.)
 
 È disciplinata dagli [Art. 2291][art2291] 🕵️‍♀️ ed è una società di persone che può essere utilizzata sia per l'esercizio di attività commerciale, sia per l'esercizio di un'attività non commerciale (Art. 2249 C.c.)
@@ -210,3 +221,53 @@ Le caratteristiche:
   - La ragione sociale della società (il nome)
   - La sede della società ed eventuali sedi secondarie
   - L'oggetto sociale
+- **Il potere** di amministrazione ed il coincidente potere di rappresentanza spettavano, in mancanza di specifica regolamentazione del contratto sociale, disgiuntamente a tutti i soci
+- L'atto costitutivo può essere previsto un sistema di amministrazione congiunta
+- Tutti i soci sono illimitatamente responsabili concorrono nell'amministrazione della società. *Questa regola può essere variata nell'atto costitutivo*
+- **Responsabilità patrimoniale imperfetta** e **sussidiaria**
+- I creditori del socio non possono vantare diritti verso la società per il soddisfacimento del loro credito.
+- Divieto di concorrenza in relazione alla natura dell'attività commerciale esercitata
+
+Le cause di scioglimento della società possono essere: ❌
+
+* Decorso termine
+* Conseguimento oggetto sociale o sopravvenuta impossibilità a conseguirlo
+* Volontà di tutti i soci
+* Quando viene meno pluralità di tutti i soci per più di 6 mesi
+* Altre cause prevista da contratto
+
+
+### Società di capitali 💸🤑
+?> Le società di capitali sono:
+> * per azioni
+> * a responsabilità limitata
+> * in accomandita per azioni
+
+Nelle società di capitali prevale il **capitale** (l'elemento patrimoniale) rispetto che alle persone.
+
+Sono enti dotati di **personalità giuridica** e autonomia patrimoniale **perfetta** (la società risponde soltanto con il suo patrimonio).
+
+Responsabilità limitata dei soci per le obbligazioni sociali: i soci rispondono per le obbligazioni assunte dalla società nei limiti delle azioni o quote sottoscritte (guadagnano e perdono soldi solo in base a quanto hanno versato)
+
+L'amministrazione può spettare anche a non soci
+
+C'è un capitale minimo previsto dalla **legge**
+
+### Società per azioni (S.P.A.)
+
+La società per azioni rappresenta il principale tipo di società di capitali e la forma più
+importante di società predisposta per le imprese che richiedono l’apporto di ingenti capitali
+ed importano l’assunzione di notevoli rischi. 
+
+
+### Differenza responsabilità illimitata e limitata
+
+La differenza è essenzialmente che in caso di debiti se la responsabilità è **limitata** il creditore si **limita** (maddai) al patrimonio della società invece nel momento in cui si parla di responsabilità **illimitata** il creditore può avvalersi sul patrimonio del **socio** (come la macchina 🚗, la casa 🏠 eccetera eccetera)
+
+La definizione di **responsabilità illimitata**:
+
+?> Significa che un socio in caso non sia in grado di pagare i creditori, risponde con il suo patrimonio
+
+La definizione di **responsabilità limitata**:
+
+?> Significa che un socio in caso di debiti il creditore non può avvalersi sul patrimonio del socio

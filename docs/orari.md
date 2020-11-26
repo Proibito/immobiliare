@@ -2,6 +2,4 @@
 
 Questi sono gli orari del corso
 
-```pdf
-/pdf/orari.pdf
-```
+<a href="pdf/orari.pdf">Orari</a>
